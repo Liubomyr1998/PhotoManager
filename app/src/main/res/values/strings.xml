@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Фото Органайзер</string>
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+    <string name="local_gallery">Локальне сховище</string>
+    <string name="internet_storage">Інтернет сховище</string>
+    <string name="logout">Вийти</string>
+    <string name="upload_to_server">Завантажити на сервер</string>
+    <string name="load">Завантаження...</string>
+    <string name="move">Перемістити</string>
+    <string name="remove">Видалити</string>
+    <string name="upload_error">Помилка завантаження, повторіть ще раз</string>
+    <string name="photo_uploaded">Фото завантажену у папку</string>
+    <string name="write_folder_name">Введіть назву папки</string>
+    <string name="success_remove_file">Фото видалено</string>
+    <string name="select_folder">Виберіть папку</string>
+    <string name="details">Деталі</string>
+    <string name="details_info">Назва: %1$s\nРозмір: %2$s\nРозташування: %3$s</string>
+    <string name="search_hint">Пошук</string>
+    <string name="create">Створити</string>
+    <string name="upload_warning">Для завантаження фото, Вам потрібно створити папку</string>
+    <string name="close">Закрити</string>
+    <string name="no_pemission">немає доступа до данних</string>
+    <string name="remove_error">Помилка видалення</string>
+    <string name="login">Вхід</string>
+    <string name="e_mail">E-mail адрес</string>
+    <string name="password">Пароль</string>
+    <string name="sign_in">Авторизуватись</string>
+    <string name="exists_account">Відсутній акаунт?</string>
+    <string name="registration">Зареєструватись</string>
+    <string name="folder_name">Назва папки</string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "736612920796",
+    "firebase_url": "https://photomanager-f8426.firebaseio.com",
+    "project_id": "photomanager-f8426",
+    "storage_bucket": "photomanager-f8426.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736612920796:android:4ff690a86600ffe1",
+        "android_client_info": {
+          "package_name": "com.photomanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736612920796-mi7j9fhs1d2qjl88c3dth6c2aqkkb13n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOJqAbPKu_8mTxrLr6m6MXJ8nQ_otUq-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736612920796-mi7j9fhs1d2qjl88c3dth6c2aqkkb13n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
